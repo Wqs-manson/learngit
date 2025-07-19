@@ -5,3 +5,4 @@ Git tracks changes of files.
 catch files.
 now switch dev branch.
 Creating a new branch is quick and simple.
+Manage branch.
